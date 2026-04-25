@@ -29,7 +29,7 @@ TCP PORT SCANNER
 
 ### Instalation
 ```
-git clone [https://github.com/msancheez/porthound.git](https://github.com/msancheez/porthound.git)
+git clone [https://github.com/msancheez/Port-Hound.git](https://github.com/msancheez/Port-Hound.git)
 cd porthound
 pip install -e .
 ```
