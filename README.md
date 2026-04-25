@@ -1,7 +1,7 @@
 # PORT-HOUND
 TCP PORT SCANNER
 
-**Port-Hound is a lightweight network auditing tool, Python based. It uses concurrent programming to scan thousands of ports in seconds.
+**Port-Hound** is a lightweight network auditing tool, Python based. It uses concurrent programming to scan thousands of ports in seconds.
 
 ## Features
 
@@ -28,9 +28,11 @@ TCP PORT SCANNER
 - Python 3.10 or higher
 
 ### Instalation
+```
 git clone [https://github.com/msancheez/porthound.git](https://github.com/msancheez/porthound.git)
 cd porthound
 pip install -e .
+```
 
 ### Usage Examples
 
@@ -42,3 +44,5 @@ porthound -t 192.168.1.1 -p 8080 -w 200
 
 #### Show help menu
 porthound --help
+
+## Created by msancheez
